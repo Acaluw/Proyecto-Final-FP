@@ -1,0 +1,7 @@
+{
+  "name": "dreamjourney",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
