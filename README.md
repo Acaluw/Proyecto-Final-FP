@@ -2,7 +2,7 @@
 
 ## Documentación
 
-Accede a la documentación del proyecto [aquí](https://github.com/Acaluw/Proyecto-Final-FP/blob/main/JuanBarreraCuesta_PROYECTO%20DAM.pdf)
+Accede a la documentación del proyecto [aquí](https://github.com/Acaluw/Proyecto-Final-FP/blob/main/JuanBarreraCuesta_PROYECTO%20DAM.pdf) (Instrucciones de ejecución adjuntos)
 
 ## Ejecutables
 
